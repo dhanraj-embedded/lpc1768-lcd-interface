@@ -34,7 +34,3 @@ This project helped me understand GPIO control, LCD command timing, and hardware
 - Importance of delays in LCD initialization  
 - Debugging embedded C programs  
 
-## Future Work
-- Convert LCD interface to 4-bit mode  
-- Display strings instead of a single character  
-- Use UART input to display data on LCD  
